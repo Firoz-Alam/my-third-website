@@ -15,5 +15,6 @@ p{
     width: 30%;
     margin: 1px;
     padding: 2px;
-    float: left;
+    display: inline-block;
+    background-color: cornflowerblue;
 }
