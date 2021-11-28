@@ -9,16 +9,3 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
 }
-a{
-    text-decoration: none;
-}
-a:hover{
-    color: deepskyblue;
-}
-.container{
-    border: 3px solid black;
-    width: 30%;
-    margin: 3px;
-    padding: 2px;
-    display: inline-block;
-}
